@@ -1,2 +1,2 @@
 # entry_level_projects
-Contains projects I attempted/completed while learning Data Science/ ML
+Contains python notebooks of the projects I attempted/completed while learning Data Science/ ML
